@@ -1,0 +1,30 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/genos/code/" . "OS/")
+ ("/home/genos/" . "code/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/genos/code/OS/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "boot.bin"
+ "boot.asm"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/genos/" (25204 1460 753677 509000) "Public/" ".emacs.d/" ".w3m/" ".oh-my-zsh/" "../" "pix/" "Pictures/" ".zshrc" ".Xauthority" "Documents/" ".local/" "pub/" ".gnupg/" ".zprofile" ".viminfo" ".bashrc" "Desktop/" ".xprofile" "./" "Wallpaper/" ".zshrc.pre-oh-my-zsh" "2022-05-03-190806_1366x768_scrot.png" "2022-05-05-221647_1366x768_scrot.png" ".dotfiles/" "dl/" "Videos/" ".mozilla/" ".bash_logout" ".pki/" "imp/" "music/" "Templates/" ".vscode-oss/" "voidrice/" ".gitmodules" ".zsh_history" ".bash_profile" "Downloads/" "pikaur/" ".cache/" ".bash_history" ".vim/" "2022-05-05-221656_1366x768_scrot.png" ".shell.pre-oh-my-zsh" ".git/" "code/" ".gtkrc-2.0" "dox/" ".xinitrc" ".config/" "Music/")
+
+ ("/home/genos/code/OS/" (25203 65307 340428 655000) "../" "./" "boot.bin" "boot.asm")
+
+ ("/home/genos/code/" (25203 64813 360453 329000) "../" "OS/" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

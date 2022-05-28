@@ -1,0 +1,21 @@
+
+;; ----- smex-history -----
+(
+ display-line-numbers-mode
+ help-with-tutorial
+ term
+ customize-themes
+ customize
+ load-theme
+ cd
+)
+
+;; ----- smex-data -----
+(
+ (load-theme . 1)
+ (customize . 2)
+ (customize-themes . 1)
+ (term . 1)
+ (help-with-tutorial . 3)
+ (display-line-numbers-mode . 2)
+)
