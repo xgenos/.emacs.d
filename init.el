@@ -1,4 +1,5 @@
 ;; bugswriter's minimal emacs config
+;; hello there
 
 (require 'package)
 (setq package-enable-at-startup nil)
