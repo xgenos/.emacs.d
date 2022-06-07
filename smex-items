@@ -2,20 +2,47 @@
 ;; ----- smex-history -----
 (
  display-line-numbers-mode
- help-with-tutorial
- term
- customize-themes
- customize
- load-theme
- cd
+ skewer-html-mode
+ run-skewer
+ js2-mode
+ skewer-mode
+ kill-buffer
+ skewer-repl
 )
 
 ;; ----- smex-data -----
 (
  (load-theme . 1)
  (customize . 2)
- (customize-themes . 1)
+ (customize-themes . 3)
  (term . 1)
  (help-with-tutorial . 3)
- (display-line-numbers-mode . 2)
+ (display-line-numbers-mode . 29)
+ (eshell . 19)
+ (animate-birthday-present . 1)
+ (tetris . 1)
+ (kill-line . 4)
+ (kill-buffer . 41)
+ (menu-bar-mode . 2)
+ (show-subtree . 1)
+ (tree-widget-button-click . 1)
+ (comint-redirect-send-command-to-process . 1)
+ (package-install . 1)
+ (list-packages . 6)
+ (treemacs . 2)
+ (lsp-mode . 5)
+ (lsp-install-server . 4)
+ (ccls-tree-mode . 1)
+ (html-mode . 1)
+ (skewer-mode . 4)
+ (httpd-start . 2)
+ (run-skewer . 7)
+ (list-load-path-shadows . 1)
+ (magit . 1)
+ (customize-group . 2)
+ (global-hl-line-mode . 1)
+ (hl-line-mode . 1)
+ (skewer-repl . 1)
+ (js2-mode . 3)
+ (skewer-html-mode . 1)
 )

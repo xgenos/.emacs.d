@@ -2,6 +2,9 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/home/genos/code/portfolio.github.io/" . "css/")
+ ("/home/" . "genos/")
+ ("/" . "home/")
  ("/home/genos/code/" . "OS/")
  ("/home/genos/" . "code/")
 )
@@ -9,21 +12,49 @@
 ;; ----- ido-work-directory-list -----
 (
  "/home/genos/code/OS/"
+ "/home/genos/code/portfolio.github.io/"
+ "/home/genos/code/portfolio.github.io/js/"
+ "/home/genos/code/music-website/"
+ "/home/genos/code/c-programing/"
+ "/home/genos/code/portfolio.github.io/css/"
+ "/home/genos/.emacs.d/"
 )
 
 ;; ----- ido-work-file-list -----
 (
- "boot.bin"
  "boot.asm"
+ "boot"
+ "my-work.html"
+ "scripts.js"
+ "index.html"
+ "hello.html"
+ "main.c"
+ "resume.html"
+ "basic.css"
+ "init.el"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/home/genos/" (25204 1460 753677 509000) "Public/" ".emacs.d/" ".w3m/" ".oh-my-zsh/" "../" "pix/" "Pictures/" ".zshrc" ".Xauthority" "Documents/" ".local/" "pub/" ".gnupg/" ".zprofile" ".viminfo" ".bashrc" "Desktop/" ".xprofile" "./" "Wallpaper/" ".zshrc.pre-oh-my-zsh" "2022-05-03-190806_1366x768_scrot.png" "2022-05-05-221647_1366x768_scrot.png" ".dotfiles/" "dl/" "Videos/" ".mozilla/" ".bash_logout" ".pki/" "imp/" "music/" "Templates/" ".vscode-oss/" "voidrice/" ".gitmodules" ".zsh_history" ".bash_profile" "Downloads/" "pikaur/" ".cache/" ".bash_history" ".vim/" "2022-05-05-221656_1366x768_scrot.png" ".shell.pre-oh-my-zsh" ".git/" "code/" ".gtkrc-2.0" "dox/" ".xinitrc" ".config/" "Music/")
+ ("/home/genos/.emacs.d/" (25247 6053 70111 109000) "../" "eshell/" "./" "init.el" "smex-items" "elpa/" "avatar.png" "transient/" "README.md" ".cache/" "recentf" ".git/" "auto-save-list/" "ido.last" "projectile-bookmarks.eld")
 
- ("/home/genos/code/OS/" (25203 65307 340428 655000) "../" "./" "boot.bin" "boot.asm")
+ ("/home/genos/code/music-website/" (25245 49867 391538 787000) "../" "./" "music/" "script.js" "index.html")
 
- ("/home/genos/code/" (25203 64813 360453 329000) "../" "OS/" "./")
+ ("/home/genos/code/portfolio.github.io/js/" (25247 2405 346755 535000) "../" "isotope.pkgd.js" "scripts.js" "./" "music.js" "jquery.validate.js" "jquery.min.js" "imagesloaded.pkgd.js" "typed.js" "magnific-popup.js")
+
+ ("/home/genos/code/portfolio.github.io/" (25247 4820 813436 882000) "fonts/" "../" "js/" "./" "feedback/" "my-work.html" "images/" "css/" "music/" "index.html" "README.md" ".git/" "blog.html" "contacts.html" "resume.html")
+
+ ("/home/genos/code/OS/" (25247 5072 856771 773000) "../" "./" "boot.bin" "boot" "boot.asm")
+
+ ("/home/genos/code/c-programing/" (25245 38388 984803 809000) "../" "./" "a.out" "main.c")
+
+ ("/home/genos/code/" (25245 36735 518127 262000) "Zara/" "../" "thehackingsage.com/" "music-website/" "OS/" "./" "portfolio.github.io/" "c-programing/")
+
+ ("/home/genos/" (25245 37484 14798 444000) "Public/" "pipes.sh/" ".emacs.d/" "out.bin" ".chrome-remote-desktop-session" ".w3m/" "Bae-For-You/" "Zara/" ".oh-my-zsh/" "../" "snap/" "pix/" "Pictures/" ".zshrc" ".Xauthority" "Documents/" "teeworlds/" ".local/" "pub/" ".gnupg/" ".java/" ".zprofile" ".viminfo" ".bashrc" ".ssh/" "oss/" "Desktop/" "temp/" ".gnome/" "cava/" "steam.desktop" ".xprofile" "./" "Wallpaper/" ".zshrc.pre-oh-my-zsh" ".icons/" ".dotfiles/" "dl/" "Videos/" ".mozilla/" ".bash_logout" ".pki/" "env/" "web.archive.org/" "imp/" "recon.yuv" "zee5/" ".npm/" "music/" ".steampath" ".steam/" ".mplayer/" "sdcard/" "Templates/" ".vscode-oss/" "voidrice/" ".gitmodules" ".zsh_history" ".bash_profile" "Downloads/" "pikaur/" ".dotnet/" "dwm/" ".cache/" "Arduino/" ".bash_history" ".msf4/" ".vim/" ".ssr/" "blockify/" ".shell.pre-oh-my-zsh" ".git/" "code/" ".oracle_jre_usage/" "shell.sh" "Xiaomi-RedmiNote4-51E01F9C9ABE4F100CF015C1534B1DD7/" "Twini-Golf/" "pipewire/" ".pulse-cookie" "wget-log" ".gtkrc-2.0" "dox/" ".steampid" "ranger/" ".xinitrc" "package-query/" ".config/" "open-builder/" ".BurpSuite/" ".arduino15/" "GitHubDesktop-linux-2.9.3-linux3.deb" "Xiaomi-RedmiNote4-673844681ED87AC5A1E7D3575D7A57B6/" "Music/")
+
+ ("/home/genos/code/portfolio.github.io/css/" (25246 35090 765124 124000) "dark.css" "layout.css" "magnific-popup.css" "../" "animate.css" "./" ".layout.css.swp" "basic.css" "music.css" "ionicons.css" "color.css" ".ionicons.min.css.swp")
+
+ ("/home/" (25223 20504 797755 74000) "../" "./" "genos/" "bruh/" "biswa/")
 )
 
 ;; ----- ido-unc-hosts-cache -----

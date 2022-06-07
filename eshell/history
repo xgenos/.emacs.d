@@ -1,0 +1,41 @@
+ls
+ls
+ls
+neofetcj
+neofetch
+neofetch
+clear
+cd
+ls
+clear
+ls
+clear
+neofetch
+ls
+ls
+gcc main.c 
+ls
+./a.out 
+gcc main.c
+ls
+./a.out 
+ls
+nasm
+nsam boot.
+ls
+nasm boot.asm
+ls
+qemu boot.bin
+qemu boot.bin
+sudo pacman -S qemu
+qemu
+sudo qumu
+qemu
+ls
+qemu boot.bin 
+qemu boot
+qemu --help
+nasm -f bin boot.asm -o boot.bin
+ls
+qemu-system-x86_64 boot.bin
+clear
